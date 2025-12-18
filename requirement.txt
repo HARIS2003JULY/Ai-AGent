@@ -1,0 +1,7 @@
+streamlit
+requests
+PyPDF2
+python-docx
+pillow
+pytesseract
+python-dotenv
